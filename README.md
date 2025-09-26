@@ -1,46 +1,101 @@
-# Getting Started with Create React App
+# Crusader Tea - Premium Indian Heritage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A premium tea e-commerce website celebrating the rich heritage of Indian tea culture. Built with React, TypeScript, and Tailwind CSS.
 
-## Available Scripts
+![Crusader Tea Website](https://github.com/user-attachments/assets/561193ee-6a1b-4e3f-bfd2-b298ac1af971)
 
-In the project directory, you can run:
+## 🍃 Features
 
-### `npm start`
+- **Responsive Design**: Mobile-first design that works beautifully on all devices
+- **Product Catalog**: Comprehensive collection of premium Indian teas with detailed descriptions
+- **Shopping Cart**: Full cart functionality with quantity controls and total calculations
+- **Heritage Section**: Rich storytelling about Indian tea traditions and regions
+- **Founder Story**: Personal story of Manu Muralee and the vision behind Crusader Tea
+- **Contact Form**: Interactive contact form with validation and submission feedback
+- **Modern Animations**: Smooth animations using Framer Motion for enhanced user experience
+- **Professional Branding**: Consistent color scheme and typography throughout
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🛍️ Product Categories
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Black Teas**: Royal Assam, Earl Grey Supreme, Nilgiri Gold
+- **Green Teas**: Himalayan Green with delicate floral notes
+- **White Teas**: Rare White Peony with subtle sweetness
+- **Spiced Teas**: Traditional Masala Chai blends
 
-### `npm test`
+## 🏔️ Tea Regions Featured
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Darjeeling**: The "Champagne of Teas" from high-altitude gardens
+- **Assam**: Robust, malty teas from the world's largest tea region
+- **Nilgiri**: Bright, citrusy teas from South India's Blue Mountains
 
-### `npm run build`
+## 🚀 Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React 19**: Modern React with hooks and functional components
+- **TypeScript**: Type-safe development with excellent IDE support
+- **Tailwind CSS**: Utility-first CSS framework for rapid styling
+- **Framer Motion**: Beautiful animations and transitions
+- **Lucide React**: Modern icon library
+- **Context API**: State management for shopping cart
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📱 Sections
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Hero Section**: Eye-catching introduction with call-to-action buttons
+2. **Products**: Featured teas and complete collection with filtering
+3. **Heritage**: Story of Indian tea culture and traditions
+4. **About**: Company story and founder Manu Muralee's journey
+5. **Contact**: Contact form and business information
+6. **Footer**: Links, social media, and additional information
 
-### `npm run eject`
+## 🎨 Design Features
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Custom color palette inspired by tea culture
+- Typography combination of Playfair Display (serif) and Inter (sans-serif)
+- Logo placeholder with "CT" monogram
+- Smooth scroll navigation
+- Hover effects and interactive elements
+- Professional product cards with ratings and pricing
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛒 E-commerce Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Add to cart functionality
+- Cart quantity management
+- Real-time total calculation
+- Cart persistence during session
+- Checkout flow ready for integration
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🏗️ Getting Started
 
-## Learn More
+```bash
+# Install dependencies
+npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Start development server
+npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Run tests
+npm test
+
+# Build for production
+npm run build
+```
+
+## 📦 Build Information
+
+The application is optimized for production with:
+- Code splitting and lazy loading
+- CSS optimization with Tailwind
+- Image optimization recommendations
+- Clean, semantic HTML structure
+- SEO-friendly meta information
+
+## 🌐 Deployment
+
+The built application can be deployed to any static hosting service:
+- Vercel
+- Netlify
+- AWS S3 + CloudFront
+- GitHub Pages
+
+---
+
+*Crafted with ❤️ in India - Celebrating the rich heritage of Indian tea culture*

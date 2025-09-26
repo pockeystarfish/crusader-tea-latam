@@ -145,15 +145,15 @@ const Footer: React.FC = () => {
             </div>
             
             <div className="flex items-center space-x-6 text-sm">
-              <a href="#" className="text-tea-cream hover:text-white transition-colors">
+              <button className="text-tea-cream hover:text-white transition-colors">
                 Privacy Policy
-              </a>
-              <a href="#" className="text-tea-cream hover:text-white transition-colors">
+              </button>
+              <button className="text-tea-cream hover:text-white transition-colors">
                 Terms of Service
-              </a>
-              <a href="#" className="text-tea-cream hover:text-white transition-colors">
+              </button>
+              <button className="text-tea-cream hover:text-white transition-colors">
                 Shipping Info
-              </a>
+              </button>
             </div>
             
             <div className="flex items-center space-x-2 text-tea-cream text-sm">
